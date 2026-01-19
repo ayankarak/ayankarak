@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayan-karak&label=🚀+Profile+Views&color=00C9FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ayankarak&label=🚀+Profile+Views&color=00C9FF&style=for-the-badge" />
 </p>
 
 ---
@@ -30,6 +30,9 @@
 <h2 align="center">🖇️ Connect With Me 🖇️</h2>
 
 <p align="center">
+  <a href="https://github.com/ayankarak" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="45" />
+  </a>
   <a href="https://www.linkedin.com/in/ayan-karak-62116a325/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" />
   </a>
@@ -87,21 +90,20 @@
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayan-karak&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayankarak&show_icons=true&theme=radical&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayan-karak&layout=compact&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayankarak&layout=compact&theme=radical&hide_border=true" height="160" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats-flax.vercel.app/?user=ayan-karak&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats-flax.vercel.app/?user=ayankarak&theme=radical&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayan-karak&theme=radical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayankarak&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 <h3 align="center">✨ “Eat(). Sleep(). Code(). Repeat().” ✨</h3>
-
 <h3 align="center">✨ 🙏 Trusting God’s plan — every step, every decision 🕉️ ✨</h3>
