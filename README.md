@@ -52,7 +52,7 @@
 <h2 align="center">🛠️ Languages & Tools 🛠️</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,bootstrap,react,redux,vite,nodejs,express,npm,mysql,mongo,git,github,postman,tailwind,nextjs,ts,firebase,vercel,appwrite,vscode,idea&perline=12" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,bootstrap,react,redux,nodejs,express,npm,mysql,mongo,git,github,postman,tailwind,nextjs,ts,firebase,vercel,appwrite,vscode,idea&perline=12" />
 </p>
 
 ---
@@ -106,4 +106,4 @@
 ---
 
 <h3 align="center">✨ “Eat(). Sleep(). Code(). Repeat().” ✨</h3>
-<h3 align="center">✨ 🙏 Trusting God’s plan — every step, every decision 🕉️ ✨</h3>
+<h3 align="center">✨ 🙏 Trusting On God’s plan — every step, every decision 🕉️ ✨</h3>
